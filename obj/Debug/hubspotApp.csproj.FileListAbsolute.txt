@@ -1,0 +1,15 @@
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\bin\Debug\hubspotApp.exe.config
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\bin\Debug\hubspotApp.exe
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\bin\Debug\hubspotApp.pdb
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\obj\Debug\hubspotApp.csproj.App.config
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\obj\Debug\hubspotApp.csprojAssemblyReference.cache
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\obj\Debug\hubspotApp.csproj.CoreCompileInputs.cache
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\obj\Debug\hubspotApp.csproj.CopyComplete
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\obj\Debug\hubspotApp.exe
+c:\users\anubh\source\repos\hubspotApp\hubspotApp\obj\Debug\hubspotApp.pdb
